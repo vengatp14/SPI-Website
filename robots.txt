@@ -1,0 +1,7 @@
+# SEO: Crawler directives. All pages, CSS, JS and images remain crawlable.
+User-agent: *
+Allow: /
+
+# SEO: XML sitemap references (replace YOUR-PRODUCTION-DOMAIN before deployment)
+Sitemap: https://YOUR-PRODUCTION-DOMAIN/sitemap.xml
+Sitemap: https://YOUR-PRODUCTION-DOMAIN/sitemap-images.xml

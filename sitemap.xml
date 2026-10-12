@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SEO: XML sitemap of indexable canonical URLs. Replace YOUR-PRODUCTION-DOMAIN before deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://YOUR-PRODUCTION-DOMAIN/</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-PRODUCTION-DOMAIN/sewing-machines.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-PRODUCTION-DOMAIN/special-sewing-machines.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-PRODUCTION-DOMAIN/attachments-special-applications.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-PRODUCTION-DOMAIN/welding-machines.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-PRODUCTION-DOMAIN/laser-cutting.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://YOUR-PRODUCTION-DOMAIN/oscillating-knife-cutting.html</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+</urlset>
